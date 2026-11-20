@@ -1,10 +1,13 @@
 # AI 辅助学术论文写作
 
-根据 Zhicheng Lin 的 *Nature Biomedical Engineering* 评论文章与兔老师 Roxy 的中文推文整理。Word 手册包含两阶段协作方法、三个写作环节、五类辅助方式、投稿前核查与 35 条完整的中文提示词。每条提示词另存为一个 UTF-8 `.txt` 文件，可独立使用。
+一套用于学术论文提纲、正文写作、润色和投稿前核查的 AI 辅助工具包，包含 Word 方法手册、35 条中文提示词和可安装的 Codex Skill。手册与提示词根据 Zhicheng Lin 的 *Nature Biomedical Engineering* 评论文章和兔老师 Roxy 的中文推文整理。每条提示词另存为 UTF-8 `.txt`，可独立使用。
 
+## 下载与安装
+
+- [下载整套资料 ZIP](https://github.com/Weking-code/ai-paper-writing-skill/archive/refs/heads/main.zip)
 - [Word 方法手册](docs/ai-paper-writing-guide.docx)
 - [35 条提示词索引](skills/ai-paper-writing/references/prompt-index.md)
-- [Skill 入口](skills/ai-paper-writing/SKILL.md)
+- [Skill 安装包 ZIP](downloads/ai-paper-writing-skill.zip) · [查看 SKILL.md](skills/ai-paper-writing/SKILL.md)
 - [Skill 安装与使用说明](INSTALL.md)
 
 ## 从哪里开始
@@ -13,7 +16,7 @@
 2. **已经有正文**：用 11 比较三种改写，或用 16 修复两个段落之间的衔接。需要保留原稿时，追加 31 仅给建议。
 3. **准备投稿**：用 20 检查段落逻辑，29 做模拟审稿，34 核对证据与引文。记录实际采纳的 AI 辅助并核查期刊政策。
 
-如果只用聊天界面，打开相应 TXT，把 `【】` 内的占位内容换成自己的材料，再粘贴运行。下载整套资料时，可在 GitHub 仓库的 **Code → Download ZIP** 获取。私有仓库需使用有权限的 GitHub 账号下载。
+如果只用聊天界面，打开相应 TXT，把 `【】` 内的占位内容换成自己的材料，再粘贴运行。下载整套资料也可使用 **Code → Download ZIP**。
 
 ## 来源
 

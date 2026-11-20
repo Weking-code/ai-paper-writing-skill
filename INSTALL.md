@@ -29,7 +29,7 @@ cp -R skills/ai-paper-writing "$HOME/.agents/skills/"
 
 ## 在 ChatGPT 中使用
 
-若工作区提供 Skills 上传入口，在 `Plugins → Skills → Create → Upload from your computer` 选择 Skill 压缩包。仓库有单独的 Skill 包时可直接使用，或自行将 `skills/ai-paper-writing/` 单独压缩，确保包内有 `SKILL.md` 与 `references/`。安装后在对话里输入 `@` 从列表中选择该 Skill。入口和可用性取决于账号与工作区设置。[ChatGPT Skills 官方说明](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
+若工作区提供 Skills 上传入口，在 `Plugins → Skills → Create → Upload from your computer` 选择 Skill 压缩包。可直接使用仓库的 [Skill 安装包](downloads/ai-paper-writing-skill.zip)，或自行将 `skills/ai-paper-writing/` 单独压缩，确保包内有 `SKILL.md` 与 `references/`。安装后在对话里输入 `@` 从列表中选择该 Skill。入口和可用性取决于账号与工作区设置。[ChatGPT Skills 官方说明](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
 
 普通对话也可以直接使用。选择对应的 TXT，替换占位内容，粘贴到对话，同时提供本次允许使用的材料。审稿、改写或文献任务用精确的章节范围和作者已确认的资料。
 
